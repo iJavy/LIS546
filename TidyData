@@ -4,23 +4,23 @@
     	<yield>20 cookies</yield>
     	<ingredients>
       		<ingredient>butter</ingredient>
-			<ingredient>white sugar</ingredient>
-			<ingredient>eggs</ingredient>
-			<ingredient>baking soda</ingredient>
-			<ingredient>chocolate chips</ingredient>
-			<ingredient>brown sugar</ingredient>
-			<ingredient>vanilla extract</ingredient>
-			<ingredient>all-purpose flour</ingredient>
-			<ingredient>salt</ingredient>
+		<ingredient>white sugar</ingredient>
+		<ingredient>eggs</ingredient>
+		<ingredient>baking soda</ingredient>
+		<ingredient>chocolate chips</ingredient>
+		<ingredient>brown sugar</ingredient>
+		<ingredient>vanilla extract</ingredient>
+		<ingredient>all-purpose flour</ingredient>
+		<ingredient>salt</ingredient>
     	</ingredients>
-  		<utensils>
-			<utensil>bowl</utensil>
-			<utensil>oven</utensil>
-			<utensil>baking sheet</utensil>
-			<utensil>parchment paper</utensil>
-			<utensil>stand mixer</utensil>
-			<utensil>spatula</utensil>
-		</utensils>
+  	<utensils>
+		<utensil>bowl</utensil>
+		<utensil>oven</utensil>
+		<utensil>baking sheet</utensil>
+		<utensil>parchment paper</utensil>
+		<utensil>stand mixer</utensil>
+		<utensil>spatula</utensil>
+	</utensils>
 	<notes>Corn-free, Peanut-free, Soy-free, Tree nut-free</notes>
 	</recipe>
 </allRecipes>
