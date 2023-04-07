@@ -2,14 +2,14 @@
 	<recipe>
     	<title>THICK, CHEWY CHOCOLATE CHIP COOKIES</title>
     	<yield>20 cookies</yield>
-	<bakeTime>
-		<minimum>12 minutes</minimum>
-		<maximum>16 minutes</maximum>
-	</bakeTime>
 	<prepTime>
 		<minimum></minimum>
 		<maximum></maximum>
 	</prepTime>
+	<bakeTime>
+		<minimum>12 minutes</minimum>
+		<maximum>16 minutes</maximum>
+	</bakeTime>
     	<ingredients>
       		<ingredient>butter</ingredient>
 		<ingredient>white sugar</ingredient>
